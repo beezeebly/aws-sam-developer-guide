@@ -75,7 +75,7 @@ Now that you've created the deployment package, you use it to deploy the applica
 
 **To test the serverless application in the AWS Cloud**
 
-1. Upload an image to the Amazon S3 bucket that you created for this sample application\.
+1. Upload an image to the Amazon S3 bucket named `aws-sam-ocr-sourceimagebucket` that was created by this sample application\.
 
 1. Open the DynamoDB console and find the table that was created\. See the table for results returned by Amazon Rekognition\.
 
